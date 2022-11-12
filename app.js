@@ -1,4 +1,4 @@
-//OOP in JS
+//OOP in JS (practising examples from (https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/)
 
 //using object literal
 
